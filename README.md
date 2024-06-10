@@ -1,7 +1,7 @@
-# Project Name
+# Static Deployer
 
 ## Overview
-This project includes an API server and a reverse proxy setup to handle requests.
+This project can deploy static web-app on AWS S3 with the help of github link
 
 ## Setup Instructions
 
